@@ -48,10 +48,14 @@ Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack we
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Roy-729&show_icons=true&theme=tokyonight&text_color=fff" alt = "My Github Stats" align = "center"/>
-
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Roy-729&theme=tokyonight&layout=compact" align="center"/>
+</p>
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Roy-729)](https://github.com/anuraghazra/github-readme-stats) -->
 
