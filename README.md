@@ -20,6 +20,7 @@ Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack we
 <br />
 
 ### Languages and Tools:
+<p align="center">
 <code><img height="20" src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://www.boylesoftware.com/blog/wp-content/uploads/2014/07/280x250_css3_logo.jpg"></code>
@@ -37,6 +38,7 @@ Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack we
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png"></code>
 <code><img height="20" src="https://cdn.write.corbpie.com/wp-content/uploads/2019/02/xampp-logo.png"></code>
 <code><img height="20" src="https://netex.consulting/wp-content/uploads/2018/06/vps-logo-big.png"></code>
+</p>
 
 <br />
 <br />
