@@ -28,10 +28,15 @@ Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack we
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png"></code>
+<code><img height="20" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/404/1*mujOqlQ9k9Mhpj1PbxsSDQ.png"></code>
+<code><img height="20" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code><img height="20" src="https://ih1.redbubble.net/image.683518800.8491/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png"></code>
+<code><img height="20" src="https://cdn.write.corbpie.com/wp-content/uploads/2019/02/xampp-logo.png"></code>
+<code><img height="20" src="https://netex.consulting/wp-content/uploads/2018/06/vps-logo-big.png"></code>
 
 <br />
 <br />
