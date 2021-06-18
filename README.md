@@ -43,11 +43,7 @@ Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack we
 <br />
 <br />
 
----
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 <p align = "center">
