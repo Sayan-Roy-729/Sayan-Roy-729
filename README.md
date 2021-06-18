@@ -12,10 +12,7 @@
 - ⚡ Fun fact: I love to code very much
 
 ---
-Hi, I'm [Abhishek Naidu](https://sayanroy.in), a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I want to be a successful freelance software engineer.
-
-
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+Hi, I'm [Sayan Roy](https://sayanroy.in), a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I want to be a successful freelance software engineer.
   
 - 💼 Any freelance work? Do reach, [email](rsayan553@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
