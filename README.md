@@ -18,6 +18,9 @@ Hi, I'm Sayan Roy, a passionate self-taught Full Stack web developer ans data sc
 * React Native, Flutter
 * Firebase, AWS, DigitalOcean
 
+## Top Projects
+[!Realtime Pizza App](https://github.com/Sayan-Roy-729/Realtime-Pizza-App/blob/main/Realtime%20Pizza%20App.gif)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayan-Roy-729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayanroy729//)  
 
