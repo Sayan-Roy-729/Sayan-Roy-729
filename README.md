@@ -1,14 +1,26 @@
 ![**DATA SCIENCE ENTHUSIAST**](https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg)
-# Hi there 👋, my name is **Sayan Roy**
-## **DATA SCIENCE ENTHUSIAST**
 
-Hi, I'm Sayan Roy and currently I am a third year Chemical Engineering Student from [Jadavpur University](http://www.jaduniv.edu.in). In 2020 around March in India, the Covid-19 cases were increasing and the government declared lockdown. That time I got a message from my friends to learn Python Programming Language from an online learning source, [MyWBUT](https://www.mywbut.com). While doing this course, my teacher, [Nitish Singh](https://www.linkedin.com/in/nitish-singh-03412789) of the course suggested creating a Portfolio Website. And that is the key point of my life that I got very interested in the programming world. After that one month of the course, I was interested in Machine Learning as well as Web Development. I took Web Development and Machine Learning course under him. I wanted to build my portfolio website from scratch, don't want to use a template for this. As well as I was also improving my Machine Learning skills. But one point came where I have to focus on that one topic, either Machine Learning or Web Development at a time because these technologies are very vast.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saya Roy
+================================================================================================================================
 
-I chose Web Development and was starting to improve my skills in this domain like CSS, JavaScript, ReactJS, NodeJS, NextJs. I did many projects related to this field and then I realized that my primary goal becomes a Data Scientist or Machine Learning Engineer. Then I switched to the Data Science field and am now completely focused on this field. Now I am very passionate to learn different and new Data Science and ML learning techniques and my goal are to be an expert in this field.
+Data Scientist & Machine Learning Engineer
+------------------------------------------
+Data Scientist with 2+ years of broad-based experience in building data-intensive applications, overcoming complex architectural and scalability issues. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages including Python and JavaScript. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
-- 🌱 I’m currently learning Deep Learning
+* 🌍  I'm based in Kolkata, West Bengal
+* 🖥️  See my portfolio at [https://imathlogic.com](http://imathlogic.com)
+* ✉️  You can contact me at [rsyan553@gmail.com](mailto:rsyan553@gmail.com)
+* 🚀  I'm currently working on [Heart disease image classification](http://imathlogic.com)
+* 🧠  I'm learning Deep Learning.
+* 🤝  I'm open to collaborating on projects.
+* ⚡  Let's have fun with snakes animals like Python, Pandas, Anaconda.
 - 🥅 2022 Goals: To be a good/expert Data Scientist
-- ⚡ Fun fact: I love to code very much
+
+![Profile views](https://gpvc.arturio.dev/Sayan-Roy-729)
+
+<a href="https://www.github.com/Sayan-Roy-729" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Sayan-Roy-729?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
+
 
 ## ⚡ SKILLS:
 ### 👨‍🔬Data Science Related:
@@ -32,16 +44,12 @@ I chose Web Development and was starting to improve my skills in this domain lik
 * React Native, Flutter
 * Firebase, AWS, DigitalOcean
 
-## Top Projects
-<p align = "left">
-  <p align = "left">
-    <img src = "https://github.com/Sayan-Roy-729/Realtime-Pizza-App/blob/main/Realtime%20Pizza%20App.gif" height = "200" width="350"/>
-    <h4><strong>Realtime Pizza App<strong></h4>
-   </p>
- </p>
 
+### Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayan-Roy-729)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayanroy729//)  
+<p align="left"> <a href="https://discord.com/users/SayanRoy#8592" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sayan-Roy-729" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sayanroy729" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sayanroy729" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p> 
+
+**Badges**
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
@@ -49,6 +57,12 @@ I chose Web Development and was starting to improve my skills in this domain lik
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan-Roy-729&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Roy-729)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Roy-729)
 
-![Profile views](https://gpvc.arturio.dev/Sayan-Roy-729)  
+<a href="http://www.github.com/Sayan-Roy-729"><img src="https://activity-graph.herokuapp.com/graph?username=Sayan-Roy-729&bg_color=ffffff&color=000000&line=84cc16&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/sayanroy729"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
