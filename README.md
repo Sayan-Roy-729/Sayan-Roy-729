@@ -1,6 +1,6 @@
 ![**DATA SCIENCE ENTHUSIAST**](https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saya Roy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Roy
 ================================================================================================================================
 
 Data Scientist & Machine Learning Engineer
