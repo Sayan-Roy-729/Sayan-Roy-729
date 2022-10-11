@@ -1,4 +1,5 @@
-![**DATA SCIENCE ENTHUSIAST**](https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg)
+
+![**DATA SCIENCE ENTHUSIAST**](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Roy
 ================================================================================================================================
@@ -21,6 +22,7 @@ Data Scientist with 2+ years of broad-based experience in building data-intensiv
 <a href="https://www.github.com/Sayan-Roy-729" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sayan-Roy-729?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
 
+[![@sayanroy729's Holopin board](https://holopin.io/api/user/board?user=sayanroy729)](https://holopin.io/@sayanroy729)
 
 ## ⚡ SKILLS:
 ### 👨‍🔬Data Science Related:
