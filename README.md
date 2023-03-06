@@ -6,16 +6,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist & Machine Learning Engineer
 ------------------------------------------
-Data Scientist with 2+ years of broad-based experience in building data-intensive applications, overcoming complex architectural and scalability issues. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages including Python and JavaScript. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+As a final year engineering student from Jadavpur University, I am passionate about data science and machine learning. I have extensive knowledge of Python, SQL, statistics, and Tableau, and I am eager to expand my skill set further. With a keen eye for detail and a data-driven mindset, I am always looking for new and innovative ways to approach complex problems. I am excited to connect with like-minded professionals and explore new opportunities in the field of data science.
 
-* 🌍  I'm based in Kolkata, West Bengal
-* 🖥️  See my portfolio at [https://imathlogic.com](http://imathlogic.com)
-* ✉️  You can contact me at [rsyan553@gmail.com](mailto:rsyan553@gmail.com)
-* 🚀  I'm currently working on [Heart disease image classification](http://imathlogic.com)
-* 🧠  I'm learning Deep Learning.
-* 🤝  I'm open to collaborating on projects.
-* ⚡  Let's have fun with snakes animals like Python, Pandas, Anaconda.
-- 🥅 2022 Goals: To be a good/expert Data Scientist
+* 🌍 I'm based in Kolkata, West Bengal
+* 🖥️ See my portfolio at [https://data-science.imathlogic.com/](https://data-science.imathlogic.com/)
+* ✉️ You can contact me at [rsyan553@gmail.com](mailto:rsyan553@gmail.com)
+* 🤝 I'm open to collaborating on projects.
+* ⚡ Let's have fun with snakes animals like Python, Pandas, Anaconda.
+- 🥅 2023 Goals: To be a good/expert Data Scientist
 
 ![Profile views](https://gpvc.arturio.dev/Sayan-Roy-729)
 
@@ -37,14 +35,6 @@ src="https://img.shields.io/github/followers/Sayan-Roy-729?logo=github&style=for
 * Seaborn
 * Tensorflow
 * PyTorch
-
-### 🌐Web Development Related
-* ReactJS
-* NodeJS, Express
-* MongoDB, MySQL
-* HTML, CSS, JS
-* React Native, Flutter
-* Firebase, AWS, DigitalOcean
 
 
 ### Socials
